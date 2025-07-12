@@ -18,7 +18,7 @@
 /* Header-bg-image */
 header{
    padding-top: 55px;
-    background-image: url('Hero-bg.png');
+    background-image: url('../Asset/Hero-bg.png');
     background-size: cover;
     background-position: center;
     height:785px;
